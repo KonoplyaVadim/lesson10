@@ -1,0 +1,23 @@
+<note>
+    <table id="task9">
+        <thead>
+            <tr>
+                <th>Firstname</th>
+                <th>Lastname</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ivan</td>
+                <td>Ivanov</td>
+                <td>1234567</td>
+            </tr>
+            <tr>
+                <td>Sergey</td>
+                <td>Petrov</td>
+                <td>9876543</td>
+            </tr>
+        </tbody>
+    </table>
+</note>
